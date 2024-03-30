@@ -410,4 +410,39 @@ The data suggests that casual users are more inclined to use the bikes on a week
 Although both groups seem to prefer evening rides, from 3:00PM - 7:00PM, annual members also seem to have higher usage in the morning from 6:00AM - 9:00AM.
 
 
-![Alt text]()
+![Alt text](https://github.com/dhiraj-taye/Cyclistic-bike-share-analysis/blob/main/Visualizations/Traffic%20hourly.png?raw=true)
+
+##Monthly User Traffic
+
+The graph depicts that irrespective of the user type, the usage of their bikes are highest in the months June - October. While lowest traffic occurs from November - March.
+
+![Alt text](https://github.com/dhiraj-taye/Cyclistic-bike-share-analysis/blob/main/Visualizations/Monthly%20traffic.png?raw=true)
+
+Most Popular Stations for Casual Users
+
+Top 20 most popular stations for casual users.
+
+![Alt text](https://github.com/dhiraj-taye/Cyclistic-bike-share-analysis/blob/main/Visualizations/Most%20Popular%20Stations%20for%20casuals.png?raw=true)
+
+##Tableau Dashboard
+
+Visualizations built in a dashboard.
+
+![Alt text](https://github.com/dhiraj-taye/Cyclistic-bike-share-analysis/blob/main/Visualizations/Dashboard.png?raw=true)
+
+----
+
+# CONCLUSION
+Based on our thorough analysis of the datasets, we've uncovered valuable insights that can guide marketing strategies aimed at converting casual users into annual members.
+
+1. Personalized Advertising: Let's strategically place billboards or posters showcasing the benefits of annual memberships near the top 20 most popular bike stations frequented by casual users. By tailoring our messaging to their preferred locations, we can catch their attention and pique their interest in becoming annual members.
+
+2. Seasonal Incentives: We propose offering exclusive discounts on annual memberships during months with lower rider traffic, especially during the quieter winter season. By providing incentives when demand is lower, we can encourage casual users to seize the opportunity and commit to annual memberships, thereby boosting overall rider activity.
+
+3. Timely Marketing Outreach: We suggest ramping up our marketing efforts on social media and television platforms during peak hours and months when casual user engagement is at its highest. By reaching out to them when they're most receptive to riding bikes, we can effectively convey the benefits of annual memberships and drive conversion.
+
+4. Weekday Rewards: To incentivize weekday rider usage among casual users, let's introduce a promotion offering free ride minutes for every minute ridden after the initial 30 minutes, but exclusively redeemable on weekdays. This initiative not only encourages weekday riding but also rewards their loyalty and commitment to cycling.
+
+By incorporating these personalized and thoughtful strategies into our marketing approach, we can better connect with casual users, address their needs, and inspire them to embrace the benefits of becoming annual members of Cyclistic.
+
+
