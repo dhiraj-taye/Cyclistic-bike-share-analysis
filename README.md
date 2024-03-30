@@ -368,6 +368,7 @@ Order By num_of_casual DESC
 ```
 Result:
 |station_name	|num_of_casuals|
+|---|---|
 |2112 W Peterson Ave|	455|
 |410	|5|
 |63rd St Beach	|354|
@@ -396,5 +397,10 @@ In this phase, we will be visualizing the data analyzed and tables created using
 ### Average Ride Duration:
 
 From inferring to the figure shown below. We can conclude that casual members on average tend to ride bikes for a longer duration of time than annual members.
-![Alt text](image link)
+![Alt text](https://github.com/dhiraj-taye/Cyclistic-bike-share-analysis/blob/main/Visualizations/Avg%20Ride%20Duration.png?raw=true)
 
+##Users Per Day Of the Week:
+
+The data suggests that casual users are more inclined to use the bikes on a weekend, while members tend to use them more on weekdays.
+
+![Alt text]()
