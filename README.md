@@ -403,4 +403,11 @@ From inferring to the figure shown below. We can conclude that casual members on
 
 The data suggests that casual users are more inclined to use the bikes on a weekend, while members tend to use them more on weekdays.
 
+![Alt text](https://github.com/dhiraj-taye/Cyclistic-bike-share-analysis/blob/main/Visualizations/users%20per%20day%20of%20week.png?raw=true)
+
+##Hourly Traffic Analysis of Users
+
+Although both groups seem to prefer evening rides, from 3:00PM - 7:00PM, annual members also seem to have higher usage in the morning from 6:00AM - 9:00AM.
+
+
 ![Alt text]()
